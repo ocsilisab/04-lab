@@ -8,12 +8,6 @@ body {
   margin: 0;
 }
 
-header {
-  background: #ccc;
-  padding: 0.25em;
-  text-align: center;
-}
-
 nav {
   display: none;
   clear: both;
@@ -39,6 +33,7 @@ nav:hover {
   display: flex;
   /* needed on both for the nav to be tappable */
 }
+
 
 /* TABLET STYLES */
 
