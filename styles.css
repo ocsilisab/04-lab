@@ -28,11 +28,14 @@ nav a {
   color: #fff;
   line-height: 2em;
 }
-.menu:hover + nav,
+.menu-toggle {
+  display: flex;
+}
+/* .menu:hover + nav,
 nav:hover {
   display: flex;
-  /* needed on both for the nav to be tappable */
-}
+} */
+
 
 
 /* TABLET STYLES */
