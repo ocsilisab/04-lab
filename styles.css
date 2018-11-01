@@ -30,6 +30,7 @@ nav a {
 }
 .menu-toggle {
   display: flex;
+  flex-direction: column;
 }
 /* .menu:hover + nav,
 nav:hover {
@@ -57,6 +58,9 @@ nav:hover {
   nav a:hover {
     color: #dfd;
     background: #797;
+  }
+  .menu-toggle {
+    flex-direction: row;
   }
 
 }
