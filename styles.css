@@ -34,10 +34,11 @@ nav a {
 }
 
 /* comment in for CSS-only solution: */
+
 /* .menu:hover + nav,
 nav:hover {
   display: flex;
-} */
+} */ 
 
 
 
